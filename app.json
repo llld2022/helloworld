@@ -2,7 +2,7 @@
     "name": "helloworld",
     "description": "helloworld.",
     "keywords": [
-        "V2Ray"
+        "helloworld"
     ],
     "env": {
         "UUID": {
